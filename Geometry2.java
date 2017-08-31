@@ -43,9 +43,7 @@ public class Geometry {
         System.out.println( circumferenceOfCircle(5.0) );
 
         // You try. Write and test functions that determine the ...
-        System.out.println( Math.sqrt(5) );
-        
-        
+     
         // 1. area of a trapezoid
         
         // 2. volume of a sphere
