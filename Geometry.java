@@ -1,4 +1,3 @@
-
 /**
  * Here are some useful Geometry formulas to demonstrate how functions can return values.
  * Also look at the Java Docs.
