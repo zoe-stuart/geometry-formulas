@@ -1,23 +1,37 @@
 
 /**
- * Write a description of class Geometry here.
+ * Here are some useful Geometry formulas to demonstrate how functions can return values.
+ * Also look at the Java Docs.
  * 
  * @author (your name) 
  * @version (a version number or a date)
  */
 public class Geometry 
 {
+    /**
+     * Calculates the area of a parallelogram.
+     *
+     * @param b  length of base of triangle
+     * @param h  height of the triangle
+     * @return   area of the triangle
+     */
+    public static double rectangleArea(double length, double width) 
+    {
+        return length * width;
+    }
     
+    /**
+     * Calculates the area of a triange.
+     *
+     * @param b  length of base of triangle
+     * @param h  height of the triangle
+     * @return   area of the triangle
+     */
     public static double triangleArea(double base, double height) 
     {
         double area = base * height / 2.0;
         
         return area;
-    }
-    
-    public static double rectangleArea(double length, double width) 
-    {
-        return length * width;
     }
     
     public static double sphereVolume(double radius) 
