@@ -1,9 +1,8 @@
-
 /**
- * Write a description of class Homework here.
+ * Just a demo of how you can access functions in one class from another.
  * 
- * @author (your name) 
- * @version (a version number or a date)
+ * @author Jon Cooper 
+ * @version August 23, 2018
  */
 public class Homework
 {
