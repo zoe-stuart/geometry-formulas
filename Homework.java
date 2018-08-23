@@ -7,8 +7,9 @@
  */
 public class Homework
 {
-    public static void main(String[] aaaaaaarrrrrrrrgggg)
+    public static void main(String[] args)
     {
-        System.out.println( Geometry.areaOfParallelogram(5, 4) );
+        double a = Geometry.areaOfParallelogram(5, 4); 
+        System.out.println(a);
     }
 }
