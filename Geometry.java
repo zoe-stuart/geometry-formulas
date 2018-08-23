@@ -11,11 +11,11 @@ public class Geometry
     /**
      * Calculates the area of a parallelogram.
      *
-     * @param b  length of base of triangle
-     * @param h  height of the triangle
-     * @return   area of the triangle
+     * @param b  length of base of parallelogram
+     * @param h  height of the parallelogram
+     * @return   area of the parallelogram
      */
-    public static double rectangleArea(double length, double width) 
+    public static double parallelogramArea(double length, double width) 
     {
         return length * width;
     }
